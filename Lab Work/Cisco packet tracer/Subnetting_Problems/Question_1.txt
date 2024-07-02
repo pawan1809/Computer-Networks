@@ -1,0 +1,21 @@
+/*
+Author	: Pawan Kumar
+Email	: pawankumar.iiitdmj@gmail.com
+Youtube : https://www.youtube.com/@dr_pawan
+Github  : https://github.com/pawan1809
+LinkedIn: https://www.linkedin.com/in/pawaniiitdmj/
+Intagram: https://www.instagram.com/rs_pawankumar/
+*/
+
+
+
+
+Question1: Create a scenario using packet tracer in which five different groups with Network
+Address 198.168.0.0 and CSE (14 hosts), ME (10 hosts), ECE (30 hosts) , EEE(25 hosts) and CE
+(50 host)) are created.
+i. Group CSE is using Bus Topology.
+ii. rest all groups will use Star Topology.
+iii. Show the difference between hub, switch and bridge.
+iv. Label the scenario properly.
+Note: Minimum requirement is (2 Switches and 3 Hub). For experimental purpose each class
+contain 4 end devices, IP address of these devices is allocated through given sub-netting.

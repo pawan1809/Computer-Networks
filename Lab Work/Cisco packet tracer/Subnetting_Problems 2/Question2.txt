@@ -1,0 +1,19 @@
+/*
+Author	: Pawan Kumar
+Email	: pawankumar.iiitdmj@gmail.com
+Youtube : https://www.youtube.com/@dr_pawan
+Github  : https://github.com/pawan1809
+LinkedIn: https://www.linkedin.com/in/pawaniiitdmj/
+Intagram: https://www.instagram.com/rs_pawankumar/
+*/
+
+
+Question2: Create a scenario using packet tracer in which four different groups (CSE (10.1.0.0
+Network Address), ME (10.2.0.0 Network Address) ECE (10.3.0.0 Network Address) and IP
+(10.4.0.0 Network Address)) are created.
+i. Group IP is using Extended start topology
+ii. Group ECE uses Bus topology.
+iii. Show the difference between hub, switch and bridge.
+iv. Label the scenario properly.
+Note: Minimum requirement is (2 Switches and 3 Hub). For experimental purpose each class
+contain 4 end devices, IP address of these devices is allocated through given sub-netting.
